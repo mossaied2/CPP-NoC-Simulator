@@ -1,0 +1,24 @@
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK ,Blockings ,resolutionsTotal ,resolutionsFlexibility,resolutionsMainBuffer,Empty buffer , hops , hops_x, hops_y, hops_z,PKTinNB,PKTinSB,PKTinEB,PKTinWB,PKTinUB,PKTinDB,ResolutionNP,ResolutionSP,ResolutionEP,ResolutionWP,ResolutionUP,ResolutionDP,Pkts_FIRST,Pkts_SECOND,Pkts_THIRD,Pkts_FORTH
+0,1,0.666781,7089.84,0.0453333,7089.84,3.62976e+09,3.62976e+09,22685,0,0,0,0,0,4.5509e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK ,Blockings ,resolutionsTotal ,resolutionsFlexibility,resolutionsMainBuffer,Empty buffer , hops , hops_x, hops_y, hops_z,PKTinNB,PKTinSB,PKTinEB,PKTinWB,PKTinUB,PKTinDB,ResolutionNP,ResolutionSP,ResolutionEP,ResolutionWP,ResolutionUP,ResolutionDP,Pkts_FIRST,Pkts_SECOND,Pkts_THIRD,Pkts_FORTH
+0,1,0.667217,7045.79,0.0449328,7045.79,3.60721e+09,3.60721e+09,23060,0,0,0,0,0,4.5509e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK ,Blockings ,resolutionsTotal ,resolutionsFlexibility,resolutionsMainBuffer,Empty buffer , hops , hops_x, hops_y, hops_z,PKTinNB,PKTinSB,PKTinEB,PKTinWB,PKTinUB,PKTinDB,ResolutionNP,ResolutionSP,ResolutionEP,ResolutionWP,ResolutionUP,ResolutionDP,Pkts_FIRST,Pkts_SECOND,Pkts_THIRD,Pkts_FORTH
+0,1,0.667502,7084.25,0.0450371,7084.25,3.62691e+09,3.62691e+09,22934,0,0,0,0,0,4.5509e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK ,Blockings ,resolutionsTotal ,resolutionsFlexibility,resolutionsMainBuffer,Empty buffer , hops , hops_x, hops_y, hops_z,PKTinNB,PKTinSB,PKTinEB,PKTinWB,PKTinUB,PKTinDB,ResolutionNP,ResolutionSP,ResolutionEP,ResolutionWP,ResolutionUP,ResolutionDP,Pkts_FIRST,Pkts_SECOND,Pkts_THIRD,Pkts_FORTH
+0,1,0.666189,7039.81,0.0452232,7039.81,3.60416e+09,3.60416e+09,22706,0,0,0,0,0,4.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK ,Blockings ,resolutionsTotal ,resolutionsFlexibility,resolutionsMainBuffer,Empty buffer , hops , hops_x, hops_y, hops_z,PKTinNB,PKTinSB,PKTinEB,PKTinWB,PKTinUB,PKTinDB,ResolutionNP,ResolutionSP,ResolutionEP,ResolutionWP,ResolutionUP,ResolutionDP,Pkts_FIRST,Pkts_SECOND,Pkts_THIRD,Pkts_FORTH
+0,1,0.666928,7029.87,0.0450729,7029.87,3.59906e+09,3.59906e+09,22625,0,0,0,0,0,4.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK , hops , hops_x, hops_y, hops_z
+0,1,0.667275,7043.72,0.0451999,7043.72,3.60615e+09,3.60615e+09,22619,0,0,0,0,0,4.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK , hops , hops_x, hops_y, hops_z
+0,1,0.666168,7106.56,0.0443172,7106.56,3.63832e+09,3.63832e+09,234374.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK , hops , hops_x, hops_y, hops_z
+0,1,0.667422,7022.17,0.0453016,7022.17,3.59513e+09,3.59513e+09,226094.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,2,0.400007,6582.88,0.0445769,6582.88,3.37019e+09,3.37019e+09,231684.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,3,0.286271,6084.07,0.0447972,6084.07,3.11484e+09,3.11484e+09,230694.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,4,0.222554,5581.57,0.0450549,5581.57,2.85757e+09,2.85757e+09,228324.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,5,0.181836,5074.88,0.0443299,5074.88,2.59814e+09,2.59814e+09,233974.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,6,0.15372,4568.42,0.0447146,4568.42,2.33885e+09,2.33885e+09,230164.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+ARCH ,TimeBtwnPKTs ,Avg IR ,Avg DE ,Avg TH ,Avg QuDe ,Total Queue Delay is ,Total delay ,Last CLK , hops , hops_x, hops_y, hops_z
+0,1,0.668122,7015.74,0.0451557,7015.74,3.59183e+09,3.59183e+09,227494.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
+0,2,0.399845,6605.49,0.044862,6605.49,3.38177e+09,3.38177e+09,227704.0389e+06,1.34625e+06,1.34651e+06,1.34614e+06,
