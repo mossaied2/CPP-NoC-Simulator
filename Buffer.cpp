@@ -1,7 +1,7 @@
 /*
 authors: Ahmed Khaled & Mostafa Abdelrehim
-This code is based on Noxim - the NoC Simulator by the University of Catania
- */
+Some of the modules are based on Noxim - the NoC Simulator by the University of Catania
+*/
 
 #include "Buffer.h"
 
