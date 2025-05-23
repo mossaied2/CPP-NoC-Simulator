@@ -1,4 +1,7 @@
-
+/*
+authors: Ahmed Khaled & Mostafa Abdelrehim
+Some of the modules are based on Noxim - the NoC Simulator by the University of Catania
+*/
 #include "Kernel.h"
 
 void Kernel::SET_SIGNALS() {
