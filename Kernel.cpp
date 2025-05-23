@@ -1,7 +1,6 @@
 /*
- * This file represent the kernel that runs the simulations process
- * 
- */
+authors: Ahmed Khaled & Mostafa Abdelrehim
+*/
 
 #include "Kernel.h"
 
