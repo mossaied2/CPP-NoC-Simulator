@@ -1,3 +1,7 @@
+/*
+authors: Ahmed Khaled & Mostafa Abdelrehim
+Some of the modules are based on Noxim - the NoC Simulator by the University of Catania
+*/
 #pragma once
 #ifndef __COORD_H__
 #define __COORD_H__
