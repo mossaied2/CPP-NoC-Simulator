@@ -1,6 +1,7 @@
+/*
+authors: Ahmed Khaled & Mostafa Abdelrehim
+*/
 #pragma once
-
-
 #ifndef __KERNEL_H__
 #define __KERNEL_H__
 
