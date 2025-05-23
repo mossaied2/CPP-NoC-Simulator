@@ -1,13 +1,9 @@
-#pragma once
 /*
- * Noxim - the NoC Simulator
- *
- * (C) 2005-2010 by the University of Catania
- * For the complete list of authors refer to file ../doc/AUTHORS.txt
- * For the license applied to these sources refer to file ../doc/LICENSE.txt
- *
- * This file contains the declaration of the switch reservation table
- */
+authors: Ahmed Khaled & Mostafa Abdelrehim
+Some of the modules are based on Noxim - the NoC Simulator by the University of Catania
+*/
+#pragma once
+
 
 #ifndef __RESERVATIONTABLE_H__
 #define __RESERVATIONTABLE_H__
