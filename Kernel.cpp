@@ -1,5 +1,5 @@
 /*
-authors: Ahmed Khaled & Mostafa Abdelrehim
+Authors: Mostafa Abdelrehim
 */
 
 #include "Kernel.h"
