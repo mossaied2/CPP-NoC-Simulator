@@ -1,5 +1,5 @@
 /*
-authors: Ahmed Khaled & Mostafa Abdelrehim
+Authors: Mostafa Abdelrehim
 */
 #pragma once
 #ifndef __KERNEL_H__
